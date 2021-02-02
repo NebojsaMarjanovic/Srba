@@ -1,0 +1,26 @@
+div{
+    border: 1px solid #000;
+    display: block;
+    margin: 0 auto;
+    width: 320px;
+    height: 480px;
+    background-image: url("zastava.jpeg");
+}
+#container{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+img{
+    height: 50px;
+    width: 150px;
+}
+img:hover{
+    height: 60px;
+    width: 200px;
+    
+}
+
+body{
+    background-color: rgb(222, 230, 117);
+}
